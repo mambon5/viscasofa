@@ -2127,6 +2127,10 @@ a {
 	border-collapse: separate;
 }
 
+.all-rounded-2 {
+    border-radius: 30% ;
+}
+
 .small_button {
     font-size: 14px;
     width: 100%;
