@@ -3,6 +3,13 @@ showDivs(slideIndex, 'mySlides1');
 showDivs(slideIndex, 'mySlides2');
 showDivs(slideIndex, 'mySlides3');
 showDivs(slideIndex, 'mySlides4');
+showDivs(slideIndex, 'mySlides5');
+showDivs(slideIndex, 'mySlides6');
+showDivs(slideIndex, 'mySlides7');
+showDivs(slideIndex, 'mySlides8');
+showDivs(slideIndex, 'mySlides9');
+showDivs(slideIndex, 'mySlides10');
+showDivs(slideIndex, 'mySlides11');
 
 function plusDivs(n, clase) {
   showDivs(slideIndex += n, clase);
